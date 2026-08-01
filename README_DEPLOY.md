@@ -14,4 +14,4 @@ Grok 怎么用 / 国内用 Grok / Grok 网页版 / AI聚合 Grok / 流光AI / gr
 
 模板：`site_v1.html.j2`
 CTA：`https://liuguang.ai?utm_source=satellite-grok&utm_medium=referral&utm_campaign=grok`
-最后更新：2026年07月29日
+最后更新：2026年08月01日
